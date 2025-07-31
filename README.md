@@ -163,13 +163,6 @@ convex/
 └── auth.config.ts        # Authentication configuration
 ```
 
-## Key Configuration Files
-
-- `convex/schema.ts`: Defines the database schema for documents
-- `convex/auth.config.ts`: Configures Clerk authentication for Convex
-- `liveblocks.config.ts`: TypeScript definitions for Liveblocks
-- `src/middleware.ts`: Clerk middleware configuration
-
 ## Contributing
 
 1. Fork the repository
